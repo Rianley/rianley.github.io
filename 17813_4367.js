@@ -1,1 +1,0 @@
-document.writeln('<iframe src="http://cpc.88rpg.net/html/click/17813_4367.html" width="300" height="250" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>');
