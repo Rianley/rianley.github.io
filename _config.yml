@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Heimo's blog
+title: Rianley's blog
 subtitle: 
 description: 玫瑰即玫瑰，花香无意义
-author: Heimo
+author: Rianley
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -235,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://ws1.sinaimg.cn/large/005H70QEgy1flgicyz2ucj30k00k0atz.jpg
+avatar: http://www.jremember.com/statics/gentelella/production/images/img.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -287,8 +287,8 @@ links_title: Links
 #links_layout: block
 #links_layout: inline
 links:
-  小余和岁岁的个人博客: https://www.sunyyl.com
-  嘿嘿的博客: https://www.heihei.ink
+  囧记园地: http://www.jremember.com
+  rianley的博客: rianley.github.io
 
 
 # ---------------------------------------------------------------
