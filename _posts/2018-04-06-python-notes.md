@@ -5,7 +5,7 @@ tags:
  - python
  
 ---
-##流程控制之if...else 和 while 的运用！
+## 流程控制之if...else 和 while 的运用！
 {% highlight python linenos %}
 
     #既然我们编程的目的是为了控制计算机能够像人脑一样工作，那么人脑能做什么，就需要程序中有相应的机制去模拟。人脑无非是数学运算和逻辑运算，对于数学运算在上一节我们已经说过了。对于逻辑运算，即人根据外部条件的变化而做出不同的反映，比如
@@ -489,7 +489,7 @@ while True:
 
 {% endhighlight %}
 
-##十四 流程控制之for循环
+## 流程控制之for循环
 {% highlight python linenos %}
 
 1 迭代式循环：for，语法如下
