@@ -1,5 +1,5 @@
 ---
-title: python学习笔记
+title: python数据类型
 categories: python
 tags:
  - python
@@ -339,7 +339,7 @@ for word in words_set:
   ```
  ## 集合
  ```angular2html
-复制代码
+
 #作用：去重，关系运算，
 
 #定义：
@@ -382,9 +382,9 @@ for word in words_set:
 　　2. 求出所有报名的学生名字集合
 　　3. 求出只报名python课程的学员名字
 　　4. 求出没有同时这两门课程的学员名字集合
-复制代码
 
-复制代码
+
+
 # 有如下两个集合，pythons是报名python课程的学员名字集合，linuxs是报名linux课程的学员名字集合
 pythons={'alex','egon','yuanhao','wupeiqi','gangdan','biubiu'}
 linuxs={'wupeiqi','oldboy','gangdan'}
@@ -396,8 +396,8 @@ print(pythons | linuxs)
 print(pythons - linuxs)
 # 求出没有同时这两门课程的学员名字集合
 print(pythons ^ linuxs)
-复制代码
-复制代码
+
+
  　　二.去重
 
 　　 1. 有列表l=['a','b',1,'a','a']，列表元素均为可hash类型，去重，得到新列表,且新列表无需保持列表原来的顺序
@@ -414,9 +414,9 @@ l=[
     {'name':'egon','age':18,'sex':'male'},
     {'name':'egon','age':18,'sex':'male'},
 ]　　
-复制代码
 
-复制代码
+
+
 #去重,无需保持原来的顺序
 l=['a','b',1,'a','a']
 print(set(l))
