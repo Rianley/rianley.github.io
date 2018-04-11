@@ -4,13 +4,14 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Heimo's blog
-subtitle: 
-description: 玫瑰即玫瑰，花香无意义
-author: Heimo
+title: Rianley's blog
+subtitle:
+description: 初听不知曲中意，再听已是曲中人
+author: Rianley
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -235,7 +236,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://ws1.sinaimg.cn/large/005H70QEgy1flgicyz2ucj30k00k0atz.jpg
+avatar: http://www.jremember.com/statics/gentelella/production/images/img.jpg
 
 
 # Table Of Contents in the Sidebar
