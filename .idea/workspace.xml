@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac4e735-f27e-4426-b73f-c67997de9860" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/googlef7eb45c931f3cb8f.html" beforeDir="false" afterPath="$PROJECT_DIR$/googlef7eb45c931f3cb8f.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +17,17 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="439" column="26" selection-start-line="439" selection-start-column="26" selection-end-line="439" selection-end-column="26" />
+            <state relative-caret-position="274">
+              <caret line="378" column="17" selection-start-line="378" selection-start-column="17" selection-end-line="378" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Heimo-He.github.io/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4835">
+              <caret line="438" column="69" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -67,7 +77,6 @@
     <findStrings>
       <find>search</find>
       <find>avatar</find>
-      <find>baidu</find>
       <find>ico</find>
       <find>google</find>
       <find>rss</find>
@@ -76,6 +85,8 @@
       <find>atom.x</find>
       <find>jekyll</find>
       <find>google_site_verification</find>
+      <find>mathjax</find>
+      <find>baidu</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -111,6 +122,7 @@
         <option value="$PROJECT_DIR$/_posts/2016-12-22-mac_install_php7.md" />
         <option value="$PROJECT_DIR$/_posts/2016-01-01-mysql_optimize.md" />
         <option value="$PROJECT_DIR$/_posts/2016-01-01-learn-git.md" />
+        <option value="$PROJECT_DIR$/googlef7eb45c931f3cb8f.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
@@ -205,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523410020730</updated>
-      <workItem from="1523410022157" duration="13265000" />
+      <workItem from="1523410022157" duration="13784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13265000" />
+    <option name="totallyTimeSpent" value="13784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -624,10 +636,24 @@
     <entry file="file://$PROJECT_DIR$/_includes/_third-party/search/tinysou.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/googlef7eb45c931f3cb8f.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Heimo-He.github.io/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4835">
+          <caret line="438" column="69" selection-start-line="438" selection-start-column="26" selection-end-line="438" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="439" column="26" selection-start-line="439" selection-start-column="26" selection-end-line="439" selection-end-column="26" />
+        <state relative-caret-position="274">
+          <caret line="378" column="17" selection-start-line="378" selection-start-column="17" selection-end-line="378" selection-end-column="17" />
         </state>
       </provider>
     </entry>
