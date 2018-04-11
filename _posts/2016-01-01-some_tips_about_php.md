@@ -1,14 +1,12 @@
 ---
 layout: post
-categories: [tech]
+categories: php
 share: true
 comments: true
 title: "PHP代码优化的一些建议"
 excerpt: "如果能将类的方法定义成 static，就尽量定 义成 static，它的速度会提升将近4倍。echo 比 print 快，并且使用 echo 的多重参数 ..."
-date: '2016-01-01'
-modified: '2016-01-01'
 tags: [PHP,代码优化]
-author: Richard
+author: rianley
 ---
 
 * 如果能将类的方法定义成 static，就尽量定 义成 static，它的速度会提升将近4倍。

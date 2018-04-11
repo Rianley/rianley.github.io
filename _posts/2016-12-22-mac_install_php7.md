@@ -2,7 +2,7 @@
 title: "macos 10.12 安装php7 "
 categories: php
 tags:
- - php
+ - PHP
 ---
 
 macos 10.12 安装php7 参考链接【https://my.oschina.net/kakoi/blog/638436】

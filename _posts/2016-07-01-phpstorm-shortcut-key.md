@@ -2,7 +2,7 @@
 title: "phpstorm快捷键总结"
 categories: php
 tags:
- - php
+ - PHP
  - phpstorm
  - IDE
 author: Rianley

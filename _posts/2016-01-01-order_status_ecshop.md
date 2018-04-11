@@ -1,14 +1,12 @@
 ---
 layout: post
-categories: [tech]
+categories: php
 share: true
 comments: true
 title: "ecshop订单表状态"
 excerpt: "ecshop订单表,不同参数表示die不同状态,包括支付 和发货状态"
-date: '2015-04-05T18:50:00+08:00'
-#modified: '2015-04-05T18:50:00+08:00'
 tags: [PHP,ecshop]
-author: Richard
+author: Rianley
 ---
 
 
