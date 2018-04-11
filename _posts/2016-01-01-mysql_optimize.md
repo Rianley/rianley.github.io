@@ -6,8 +6,6 @@ tags:
  - mysql
 author: Rianley
 
-tags: [数据库,mysql]
-author: Richard
 ---
 
 ##### 什么是Mysql的优化

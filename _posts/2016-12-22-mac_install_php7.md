@@ -30,23 +30,23 @@ macos 10.12 安装php7 参考链接【https://my.oschina.net/kakoi/blog/638436�
   nginx.config 配置文件在/usr/local/etc/nginx
 
   
-  ####启动nginx 命令 sudo nginx 关闭 sudo nginx -s stop 重启 sudo nginx -s reload
-  ####启动php-fpm 命令 /usr/local/php/sbin/php-fpm || /usr/local/php/bin/php-fpm
-  ####关闭php-fpm  sudo killall php-fpm
+  #### 启动nginx 命令 sudo nginx 关闭 sudo nginx -s stop 重启 sudo nginx -s reload
+  #### 启动php-fpm 命令 /usr/local/php/sbin/php-fpm || /usr/local/php/bin/php-fpm
+  #### 关闭php-fpm  sudo killall php-fpm
 
 
 
   
-  #启动php-fpm 报错
+  # 启动php-fpm 报错
   #
   failed to open configuration file '/usr/local/php7/etc/php-fpm.conf': No such file or directory (2)
   #
-  #解决办法:
+  # 解决办法:
   把/usr/local/php/etc/php-fpm.conf.default复制到/usr/local/php7/etc/目录下 改名为 php-fpm.conf
 
-  #failed to open  error_log(/usr/local/php7/var/log/php-fpm.log)
-  #解决办法:
-  #进入到/usr/local/php7 创建var 目录 在在进入 创建log 目录
+  # failed to open  error_log(/usr/local/php7/var/log/php-fpm.log)
+  # 解决办法:
+  # 进入到/usr/local/php7 创建var 目录 在在进入 创建log 目录
   # 载touch php-fpm.log 即可
 
   
