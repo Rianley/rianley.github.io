@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Rianley's blog
-subtitle:
-description: 初听不知曲中意，再听已是曲中人
-author: Rianley
+title: Heimo's blog
+subtitle: 
+description: 玫瑰即玫瑰，花香无意义
+author: Heimo
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -122,7 +122,7 @@ menu:
   #about: /about/
   tags: /tags/
   archives: /archives/
-  #idea: /idea/
+  idea: /idea/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -235,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://www.jremember.com/statics/gentelella/production/images/img.jpg
+avatar: https://ws1.sinaimg.cn/large/005H70QEgy1flgicyz2ucj30k00k0atz.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -287,8 +287,8 @@ links_title: Links
 #links_layout: block
 #links_layout: inline
 links:
-    囧记园地: http://www.jremember.com
-    rianley的博客: https://rianley.github.io
+  小余和岁岁的个人博客: https://www.sunyyl.com
+  嘿嘿的博客: https://www.heihei.ink
 
 
 # ---------------------------------------------------------------
@@ -349,7 +349,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image:
+  image: 
 
 
 # Code Highlight theme
@@ -436,9 +436,7 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters
-
-google_site_verification: 7_AHlWFw5GGGD8cQaN0UATefkBN7v0345oAHYvSOOB4
-
+google_site_verification: 
 
 # Google Analytics
 #google_analytics:
@@ -554,7 +552,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: ture
+  enable: false
   hits:
     per_page: 10
   labels:
