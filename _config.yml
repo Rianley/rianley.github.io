@@ -122,7 +122,7 @@ menu:
   #about: /about/
   tags: /tags/
   archives: /archives/
-  idea: /idea/
+  #idea: /idea/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -287,9 +287,9 @@ links_title: Links
 #links_layout: block
 #links_layout: inline
 links:
-  囧记园地: http://www.jremember.com
-  嘿嘿的博客: https://Heimo-He.github.io
-  rianley的博客：https://rianley.github.io
+    囧记园地: http://www.jremember.com
+    嘿嘿的博客: https://Heimo-He.github.io
+    rianley的博客：https://rianley.github.io
 
 
 # ---------------------------------------------------------------
