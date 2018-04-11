@@ -3,26 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac4e735-f27e-4426-b73f-c67997de9860" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-aliyun-free-openssl.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-brew-error.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-build-nextcloud.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-docker-base-command.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-linux-base-security.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-nextcloud-error-getenv.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-open-hsts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-open-tcp-bbr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-php-deal-gzip-data.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-php-mmd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-php-open-opcache.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-php-swoole-webim.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-shadowsocks-error-EVP_CIPHER_CTX_cleanup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-shadowsocks-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-shadowsocks-serverSpeeder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-vue-excel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-30-yii2-excel-import.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-02-php-composer-killed.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-10-php-php7-kernel-01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +16,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+            <state relative-caret-position="557">
+              <caret line="290" column="41" selection-start-line="290" selection-start-column="41" selection-end-line="290" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -157,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523410020730</updated>
-      <workItem from="1523410022157" duration="6718000" />
+      <workItem from="1523410022157" duration="7338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6718000" />
+    <option name="totallyTimeSpent" value="7338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
@@ -518,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+        <state relative-caret-position="557">
+          <caret line="290" column="41" selection-start-line="290" selection-start-column="41" selection-end-line="290" selection-end-column="41" />
         </state>
       </provider>
     </entry>
