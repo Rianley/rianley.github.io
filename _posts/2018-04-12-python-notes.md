@@ -52,7 +52,7 @@ f.close()
 
  
 ### 强调第一点：
-'''
+{% highlight python linenos %}
 打开一个文件包含两部分资源：操作系统级打开的文件+应用程序的变量。在操作完毕一个文件时，必须把与该文件的这两部分资源一个不落地回收，回收方法为：
 1、f.close() #回收操作系统级打开的文件
 2、del f #回收应用程序级的变量
@@ -67,17 +67,20 @@ with open('a.txt','w') as f:
 with open('a.txt','r') as read_f,open('b.txt','w') as write_f:
     data=read_f.read()
     write_f.write(data)
-'''
+
+{% endhighlight %}
 
 ### 强调第二点：
-'''
+{% highlight python linenos %}
+
 f=open(...)是由操作系统打开文件，那么如果我们没有为open指定编码，那么打开文件的默认编码很明显是操作系统说了算了，操作系统会用自己的默认编码去打开文件，在windows下是gbk，在linux下是utf-8。
 这就用到了上节课讲的字符编码的知识：若要保证不乱码，文件以什么方式存的，就要以什么方式打开。
 
 f=open('a.txt','r',encoding='utf-8')
-五 python2中的file与open
 
-'''
+## python2中的file与open
+
+{% endhighlight %}
 
 {% highlight python linenos %}
 #首先在python3中操作文件只有一种选择，那就是open()
