@@ -51,6 +51,6 @@ type: about
 
 ### 项目架构图
 
-![image](https://github.com/Rianley/python-study/blob/master/image/flow.png)
+![project_image](https://raw.githubusercontent.com/Rianley/python-study/master/image/flow.png)
 
 
