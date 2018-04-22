@@ -49,6 +49,8 @@ type: about
 3.数据可视化，通过Bootstrap做出简洁美观的用户界面！
 4.实现单机支持5000+机器监控的需求
 
-### 项目展示图
+### 项目架构图
 
-![code-directory](https://rianley.github.io/image/flow.png)
+![image](https://github.com/Rianley/python-study/blob/master/image/flow.png)
+
+
