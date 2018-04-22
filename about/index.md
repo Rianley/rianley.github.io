@@ -2,7 +2,7 @@
 layout: page
 type: about
 ---
-<center><b>关于我</b></center>
+<center style="display:none;"><b>关于我</b></center>
 ## 个人信息
 
  - rianley cheng/男/95后
