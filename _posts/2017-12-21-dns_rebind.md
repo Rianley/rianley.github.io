@@ -1,3 +1,10 @@
+---
+title: DNS Rebinding 攻击
+categories: python
+tags:
+ - python
+ 
+---
 ## DNS Rebinding 攻击
 
 话说在django官网上浪的时候,发现在news上发现他们修复了DNS Rebinding漏洞,就顺手查了一下这是个什么东西.  

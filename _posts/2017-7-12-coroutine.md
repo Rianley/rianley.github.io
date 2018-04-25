@@ -1,3 +1,10 @@
+---
+title: python的异步编程
+categories: python
+tags:
+ - python
+ 
+---
 ## python的异步编程
 
 如果一个函数中使用了yield关键字,那么他就成了特殊的generator对象.

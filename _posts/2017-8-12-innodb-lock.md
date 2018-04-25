@@ -1,3 +1,10 @@
+---
+title: 据库事务和锁
+categories: python
+tags:
+ - python
+ 
+---
 ## 数据库事务和锁
 
 标签（空格分隔）： 数据库

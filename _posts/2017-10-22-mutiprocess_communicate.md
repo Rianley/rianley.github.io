@@ -1,3 +1,10 @@
+---
+title: 多进程IPC与Python支持
+categories: python
+tags:
+ - python
+ 
+---
 ## 多进程IPC与Python支持
 
 ### linux下进程间通信的几种主要手段简介:

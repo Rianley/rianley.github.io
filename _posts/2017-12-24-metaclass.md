@@ -1,3 +1,10 @@
+---
+title: python 元类
+categories: python
+tags:
+ - python
+ 
+---
 ## python 元类
 
 之前想清楚了写到了笔记中,最近看到python3.6又出了个`__init_subclass__`,之前的东西又全忘了.这次在总结一下.

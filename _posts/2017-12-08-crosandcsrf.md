@@ -1,3 +1,10 @@
+---
+title: 通过 cros 政策来规避 csrf
+categories: python
+tags:
+ - python
+ 
+---
 ## 通过 cros 政策来规避 csrf
 
 ### csrf
